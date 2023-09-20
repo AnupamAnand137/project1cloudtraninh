@@ -1,3 +1,5 @@
 first line 
 swcond line third line
 modified on github.
+diff cmd checking
+.
